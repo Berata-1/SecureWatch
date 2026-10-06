@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# SecureWatch database
+database/*.db
+
+# Generated reports
+reports/*.csv
+
+# Temporary files
+*.tmp
+*.cache
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db

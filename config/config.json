@@ -1,0 +1,15 @@
+{
+    "scan_interval": 5,
+    "max_recent_events": 5,
+    "report_on_exit": true,
+    "ignored_directories": [
+        ".git",
+        "__pycache__",
+        "node_modules"
+    ],
+    "ignored_extensions": [
+        ".tmp",
+        ".log",
+        ".cache"
+    ]
+}
